@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: quay.io/biocontainers/meme:5.4.1--py39pl5321he9f59b1_1
+From: icaoberg/meme-suite:5.4.1
 
 %labels
     MAINTAINER icaoberg
