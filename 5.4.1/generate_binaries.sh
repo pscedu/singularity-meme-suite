@@ -1,6 +1,11 @@
 #!/bin/bash
 
-TOOLS=(ame  dreme fimo	glam2scan mast meme momo sea streme tomtom centrimo dust glam2	gomo mcast meme-chip purge spamo tgene xstreme)
+TOOLS=(ame  dreme fimo 
+glam2scan mast meme 
+momo sea streme tomtom 
+centrimo dust glam2 
+gomo mcast meme-chip 
+purge spamo tgene xstreme)
 
 cat << EOF > template
 #!/bin/bash
